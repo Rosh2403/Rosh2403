@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/roshan-premil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/roshan-premil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:p_roshan@u.nus.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge" />
 </p>
@@ -41,17 +41,17 @@ Outside of tech, I'm the **co-founder & president of Blitzcric Cricket Club** (1
 |---|---|
 | 🥇 **Google DeepMind Hackathon** | 1st Place — Built an agentic AI system (Singapore) |
 | 🌏 **NUS Overseas Colleges** | Accepted into the Silicon Valley cohort |
-| 🏏 **Blitzcric Cricket Club** | Co-founded & grew to 130+ active members |
+| 🏏 **Blitzcric Cricket Club** | Co-founded & grew to 200+ active members |
 | 💼 **SonicBoom Solutions** | Built invoice reconciliation platform — 7,000+ daily transactions, 95% accuracy, 70% time reduction |
 
 ---
 
 ## 📌 Featured Projects
 
-### 🧩 VeriCube — FPGA 2×2 Rubik's Cube Solver
-> Verilog · Xilinx FPGA · Digital Design
+### 🅿️ ParkSmart — Smart Carpark Finder for Singapore
+> Next.js · LTA DataMall API · OneMap API · Leaflet
 
-A fully hardware-implemented 2×2 Rubik's Cube solver with real-time 3D rendering, mouse-controlled cube interaction, and an automated solving algorithm — running entirely on an FPGA.
+Real-time Singapore carpark finder that ranks lots by cost, distance, and availability. Features a smart scoring engine, live HDB/URA/LTA data, accurate SG parking rate calculations, and one-tap Google Maps navigation.
 
 ---
 
@@ -72,8 +72,8 @@ Award-winning AI agent built during a competitive hackathon hosted by Google Dee
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rosh2403&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosh2403&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
