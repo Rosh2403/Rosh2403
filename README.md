@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ros 👋</h1>
+<h1 align="center">Hey, I'm Roshan 👋</h1>
 
 <p align="center">
   <b>Computer Engineering @ NUS · NUS Overseas Colleges (Silicon Valley) · Google DeepMind Hackathon Winner 🏆</b>
@@ -68,15 +68,6 @@ Automated invoice reconciliation system processing **7,000+ transactions/day** w
 > AI · Agentic Architecture
 
 Award-winning AI agent built during a competitive hackathon hosted by Google DeepMind in Singapore.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rosh2403&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosh2403&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
-</p>
 
 ---
 
