@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ros 👋</h1>
+<h1 align="center">Hi everyone, I'm Roshan </h1>
 
 <p align="center">
   <b>Computer Engineering @ NUS · NUS Overseas Colleges (Silicon Valley) · Google DeepMind Hackathon Winner 🏆</b>
