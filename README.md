@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Roshan 👋</h1>
 
 <p align="center">
-  <b>Computer Engineering @ NUS · NUS Overseas Colleges (Silicon Valley) · Google DeepMind Hackathon Winner 🏆</b>
+  <b>Computer Engineering @ NUS · NUS Overseas Colleges (Silicon Valley)</b>
 </p>
 
 <p align="center">
@@ -41,7 +41,6 @@ Outside of tech, I'm the **co-founder & president of Blitzcric Cricket Club** (1
 
 | 🎯 Achievement | Details |
 |---|---|
-| 🥇 **Google DeepMind Hackathon** | 1st Place — Built an agentic AI system (Singapore) |
 | 🌏 **NUS Overseas Colleges** | Accepted into the Silicon Valley cohort |
 | 🏏 **Blitzcric Cricket Club** | Co-founded & grew to 130+ active members |
 | 💼 **SonicBoom Solutions** | Built invoice reconciliation platform — 7,000+ daily transactions, 95% accuracy, 70% time reduction |
@@ -64,10 +63,10 @@ Automated invoice reconciliation system processing **7,000+ transactions/day** w
 
 ---
 
-### 🤖 Agentic AI System *(Google DeepMind Hackathon — 1st Place)*
+### 🤖 Agentic AI System *(Google DeepMind Hackathon)*
 > AI · Agentic Architecture
 
-Award-winning AI agent built during a competitive hackathon hosted by Google DeepMind in Singapore.
+AI agent built during a competitive hackathon hosted by Google DeepMind in Singapore.
 
 ---
 
